@@ -1,0 +1,130 @@
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\appsettings.Development.json
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\appsettings.json
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.exe
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.deps.json
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.runtimeconfig.json
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.runtimeconfig.dev.json
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.pdb
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.csproj.AssemblyReference.cache
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.AssemblyInfoInputs.cache
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.AssemblyInfo.cs
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.csproj.CoreCompileInputs.cache
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\staticwebassets\TiendaServicio.Api.Autor.StaticWebAssets.Manifest.cache
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\staticwebassets\TiendaServicio.Api.Autor.StaticWebAssets.xml
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\scopedcss\bundle\TiendaServicio.Api.Autor.styles.css
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.RazorTargetAssemblyInfo.cache
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.csproj.CopyComplete
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\refint\TiendaServicio.Api.Autor.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.pdb
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.genruntimeconfig.cache
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\ref\TiendaServicio.Api.Autor.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Humanizer.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\MediatR.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\AutoMapper.dll
+D:\docs\UPSKILLIN .NET A .NET CORE\PROYECTOS_ABRIL_2023\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\appsettings.Development.json
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\appsettings.json
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.StaticWebAssets.xml
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.exe
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.deps.json
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.runtimeconfig.json
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.runtimeconfig.dev.json
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\TiendaServicio.Api.Autor.pdb
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\AutoMapper.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Humanizer.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\MediatR.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.csproj.AssemblyReference.cache
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.AssemblyInfoInputs.cache
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.AssemblyInfo.cs
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.csproj.CoreCompileInputs.cache
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\scopedcss\bundle\TiendaServicio.Api.Autor.styles.css
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\staticwebassets\TiendaServicio.Api.Autor.StaticWebAssets.Manifest.cache
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.RazorTargetAssemblyInfo.cache
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.csproj.CopyComplete
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\refint\TiendaServicio.Api.Autor.dll
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.pdb
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\TiendaServicio.Api.Autor.genruntimeconfig.cache
+H:\Google Drive\Cursos\C#\TiendaServicios\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\net5.0\ref\TiendaServicio.Api.Autor.dll
